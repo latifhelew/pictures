@@ -1,0 +1,48 @@
+Groundwater Well Rehabilitation
+Basic information and data collection
+The listed information is gathered from local well's committe and the technical operator. Therefore is advised to verify where necessary and double check with MoA wells' data registry files.
+Well Id Number: 15-18/001
+Well location: Falamy_ Qalqilya District
+Well coordinates: X=               Y=.              Z=
+Water quality (potable water)
+Number of farmers (beneficiaries):  
+Total irrigated area (dunum): 
+Average number of working hours per day in winte:
+Average number of working hours per day in winte:
+Well total depth (meter):
+Drilling hole diameter (inch):
+Casing  (describe):
+Pump setting below surface:
+Diameter of pumping pipes (inch):
+Well pump type and capacity at well site (m3/hr):
+Highest dynamic pressure reading(bar):
+Pump capacity at highest pressure (m3/hr)
+Well crookedness (describe):
+Static water level below surfce (m):
+Dynamic 
+water level below surfce (m):
+Annual cost of maintenance (,NIS):
+Technical malfunction:
+
+Recommended design specifications:
+The agricultural area exapanded in the last few years and demand on water is increasing. Therofore , it is advised to install the pumping equipments that enable to meet the maximum (daily/monthly,) demands.
+
+Vertical turbine: supply and install vertical turbine (closed impellers) with capacity 90 cubic meter per hour at total dynamic head ,185 meter with 1500 rmp. The maximum turbine size 8 inches
+Vertical hollow shaft motor  (as US motors) duty inverter with overload and RTD (PT100) temperature protection. Motor size not less than 125 hp.
+
+Electric panel: suitable electric panel three cabinets ip 68 with inverter 125  hp and equiped with changeover ..capacitor banks..all protection sensors against high pressure low pressure.  No flow, low voltage spikes, surge arresters overload..power cables.. control cables..cooling fans..breakers.. contactors..kilo watt hour meter.. earthling..relays and timers multimeter 24  volt control and display .hydrostatic water level curcuit...etc
+
+Pumping pipes: seamless standard sizes sch40 length 120 meter of diameter 6 inches threaded
+and epoxy painted from inside and outside or equivalent galvanized pipes..including coupling not less 8 teeth per inch over 12 cm
+Realtainers and bearings: copper threaded or equivalent required 40 bearings.
+Rubber joint: 40 pieces
+Shafts as carbon steel  1040 or equivalent. Diameter 38 mm and required ,120 meter dhafts..each bar is 3 meters length
+
+Access pipes to mointor water level using pvc pipes sch 80 and hydrostatic water level meter..the length required is 240 meters for automatic and manual measurements
+Pressure gauge 16 bar 2 pieces
+Flow switch one puece
+Pressure swirches 2 pieces
+Pressure relief valve 2 inch  one piece for mechanical protection of high pressure
+Wash out and relif water piping
+
+Fittings 6 inch as PN 16: gate valve..non return valve...dresser...flexible connection..tees and elbows.. 2 inch air valve ..water meter
